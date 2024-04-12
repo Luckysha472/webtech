@@ -1,0 +1,122 @@
+.style1{
+   border: solid black 2px;
+   width: 480px;
+   position: relative;
+   left: 440px;
+   height: 550px;
+   padding: 10px;
+   border-radius: 10px;
+   background-color:blanchedalmond;
+}
+.style2{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+}
+.style3{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+}
+.style4{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+    top: 10px;
+    left: 2px;
+}
+.style5{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+    top: 15px;
+    left: 2px;
+}
+.style6{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+    top: 17px;
+    left: 2px;
+}
+.style7{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+    top: 20px;
+    left: 2px;
+}
+.style8{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+    top: 25px;
+    left: 2px;
+}
+.style9{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 10px;
+    top: 25px;
+    left: 2px;
+}
+.style10{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 5px;
+    top: 25px;
+}
+.style11{
+    position: relative;
+    border-radius: 3px;
+    padding: 10px;
+    font-size:15px;
+    left: 6px;
+    top: 4px;
+}
+.style12{
+   position: relative;
+   border-radius: 3px;
+    padding: 10px;
+    font-size:20px;
+    bottom: 15px;
+    left: 130px;
+    width: 200px;
+    border-radius: 10px;
+    color:rgb(222, 83, 33);
+    font-family:fantasy;
+}
+.style13{
+    color:rgb(222, 83, 33);
+    text-align: center;
+}
+.lucky{
+    text-align: center;
+    color:rgb(222, 83, 33);
+}
+.style14{
+    position: relative;
+    left: 150px;
+    font-size: larger;
+    bottom: 5px;
+}
+body{
+    background-color: beige;
+}
